@@ -1,9 +1,9 @@
 .header h1 {
-    color: blue;
+    color: rgb(16, 102, 23);
     text-align: center;
-    text-shadow: 3px 3px #14a3b6;
+    text-shadow: 3px 3px #32833f;
     font-weight: bolder;
-    background-color: aqua;
+    background-color: rgb(99, 236, 145);
     padding: 5px;
 }
 .image {
@@ -13,4 +13,18 @@
     transform: scale(1.2, 0.5);
     position: relative; top: -150px;
     
+}
+.header h2 {
+    text-align: center;
+    position: relative; top: -280px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22pt;
+    text-decoration-line: underline;
+}
+p {
+    position: relative; top: -280px;
+    margin-left: 80px;
+    margin-right: 40px;
+    font-size: 16pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
