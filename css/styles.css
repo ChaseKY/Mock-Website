@@ -1,0 +1,16 @@
+.header h1 {
+    color: blue;
+    text-align: center;
+    text-shadow: 3px 3px #14a3b6;
+    font-weight: bolder;
+    background-color: aqua;
+    padding: 5px;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: scale(1.2, 0.5);
+    position: relative; top: -150px;
+    
+}
